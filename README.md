@@ -47,8 +47,7 @@
 - TotalAmount (double): Общая сумма заказа
 
 Методы:
-- AddToCart(Product product) (Добавить в корзину): void
-- RemoveFromCart(Product product) (Удалить из корзины): void
+- OrderProducts() (Заказать товары из корзины) : void
 - CalculateTotalAmount() (Рассчитать общую сумму): double
 
 ### Платеж (Payment):
